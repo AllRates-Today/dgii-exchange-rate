@@ -32,12 +32,12 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by Dirección General de Impuestos Internos (DGII) — 2 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by Dirección General de Impuestos Internos (DGII) — 2 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| EUR | DOP | buy | 66.0181 |
-| USD | DOP | buy | 60.3732 |
+| EUR | DOP | buy | 66.0874 |
+| USD | DOP | buy | 60.4366 |
 
 </details>
 
